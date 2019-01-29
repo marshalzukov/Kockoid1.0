@@ -1,0 +1,70 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R7 370 Series (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     2028 MB
+    Driver:   23.20.15007.1005
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.206 seconds
+Platform assembly: C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Slavko Pejak\Desktop\PROGRAMIRANJE\Unity igrice\Kockoid 1.0\Kockoid_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Panel') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 46.194893 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 22b0 -> priority: 1 
+  Thread -> id: 28d8 -> priority: 1 
+POBEDA!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Panel') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.274561 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3413.
+Total: 0.679680 ms (FindLiveObjects: 0.130240 ms CreateObjectMapping: 0.079040 ms MarkObjects: 0.462400 ms  DeleteObjects: 0.007680 ms)
+
+Udarili smo prepreku!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Udarili smo prepreku!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Panel') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.559361 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3413.
+Total: 1.258240 ms (FindLiveObjects: 0.227840 ms CreateObjectMapping: 0.169280 ms MarkObjects: 0.843200 ms  DeleteObjects: 0.017280 ms)
+
+Izasli smo iz igre!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
